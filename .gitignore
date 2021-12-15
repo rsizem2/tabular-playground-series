@@ -133,4 +133,4 @@ dmypy.json
 TPS*/data/*
 
 # Catboost
-TPS*/notebooks/catboost_info/*
+TPS*/notebook*/catboost_info/*
