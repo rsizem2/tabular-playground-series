@@ -6,7 +6,11 @@ The tabular playground series is a monthly playground-style competition involvin
 
 ## TPS 12 - December
 
-The current (and maybe final) tabular playground series competition. My goal with this competition is to focus on feature engineering and selection since this competition includes non-anonymized features. To be continued...
+The current (and maybe final) tabular playground series competition. My goal with this competition is to focus on feature engineering and selection since this competition includes non-anonymized features. In particular, I want to do the following:
+
+* Explore the original [Covertype](https://archive.ics.uci.edu/ml/datasets/Covertype) data from the UCI ML repository.
+* Compare synthetic data with the original data, perhaps using adversarial validation.
+* Experiment with feature engineering using domain knowledge, if possible.
 
 ## TPS 11 - November
 
