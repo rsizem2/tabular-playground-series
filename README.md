@@ -12,6 +12,8 @@ The current (and maybe final) tabular playground series competition. My goal wit
 * Compare synthetic data with the original data, perhaps using adversarial validation.
 * Experiment with feature engineering using domain knowledge, if possible.
 
+I ended up not submitting to this competition due to focusing my efforts on Advent of Code and exploring the original dataset. You can see my work on the original dataset [here](https://github.com/rsizem2/forest-cover-type-prediction) and my advent of code solutions [here](https://github.com/rsizem2/advent-of-code).
+
 ## TPS 11 - November
 
 [This month's competition](https://www.kaggle.com/c/tabular-playground-series-nov-2021/overview) is a binary classification problem involving a synthetic dataset with 100 numerical features and a binary target.
@@ -37,4 +39,3 @@ This was my third official Kaggle competition. My main goal for this competition
 ## TPS 09 - September
 
 This was my second official Kaggle competition. My main focus was on hyperparameter tuning using the optuna framework. My local machine does not have a GPU so I mostly used[LightGBM](https://lightgbm.readthedocs.io/en/latest/index.html). For my work relating to this competition involving other models including [XGBoost](https://xgboost.readthedocs.io/en/latest/) and [Tensorflow Decision Forests](https://www.tensorflow.org/decision_forests) see my public Kaggle notebooks [here](https://www.kaggle.com/rsizem2/tps0921foldsfeather/code).
-
