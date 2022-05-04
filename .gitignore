@@ -130,7 +130,10 @@ dmypy.json
 
 # Ignore data
 
-TPS*/data/*
+TPS*/data/*train.csv
+TPS*/data/*test.csv
+TPS*/data/*.7z
+TPS*2021*/data/*.feather
 
 # Catboost
 TPS*/notebook*/catboost_info/*
